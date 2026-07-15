@@ -49,12 +49,12 @@ layers:
   - .
   - {t: /, h: Mouse}
   - '='
-  - LEFT WIN
-  - Ctrl
-  - {t: Enter, h: Lower}
+  - {t: RETURN, h: Lower}
+  - Alt
+  - Cmd
   - {t: Enter, h: Raise}
   - Space
-  - Alt
+  - Ctrl
   - INSERT
   - DEL
   Lower:
@@ -106,12 +106,12 @@ layers:
   - F11
   - F12
   - PgDn
-  - LEFT WIN
-  - Ctrl
   - {type: held}
+  - Alt
+  - LEFT WIN
   - Enter
   - Space
-  - Alt
+  - Ctrl
   - INS
   - DEL
   Raise:
@@ -163,12 +163,12 @@ layers:
   - →
   - ''
   - ''
-  - LEFT WIN
-  - Ctrl
   - Enter
+  - Alt
+  - LEFT WIN
   - {type: held}
   - Space
-  - Alt
+  - Ctrl
   - INS
   - DEL
   Mouse:
@@ -285,3 +285,60 @@ layers:
   - ''
   - ''
   - ''
+  '5':
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
