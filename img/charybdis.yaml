@@ -49,14 +49,14 @@ layers:
   - .
   - {t: /, h: Mouse}
   - '='
-  - {t: RETURN, h: Lower}
-  - Alt
   - Cmd
-  - {t: Enter, h: Raise}
+  - Alt
+  - {t: Lower, h: toggle}
+  - {t: Raise, h: toggle}
   - Space
   - Ctrl
-  - INSERT
   - DEL
+  - Enter
   Lower:
   - '~'
   - '!'
@@ -106,7 +106,7 @@ layers:
   - F11
   - F12
   - PgDn
-  - {type: held}
+  - {t: ▽, type: trans}
   - Alt
   - LEFT WIN
   - Enter
@@ -166,7 +166,7 @@ layers:
   - Enter
   - Alt
   - LEFT WIN
-  - {type: held}
+  - {t: ▽, type: trans}
   - Space
   - Ctrl
   - INS
